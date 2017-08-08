@@ -1,7 +1,7 @@
 # js图片轮播切换效果淡入淡出Carousel1
 
 效果如下：
-![](imgs/img.gif)
+![](imgs/img1.gif)
 
 all code:
 ```
